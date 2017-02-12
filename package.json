@@ -1,0 +1,23 @@
+{
+  "name": "broccoli-json-transform",
+  "version": "0.0.1",
+  "description": "Broccoli plugin that allows for JSON files to be modified by using a transform",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "broccoli",
+    "json"
+  ],
+  "author": "Zack Mulgrew",
+  "license": "MIT",
+  "dependencies": {
+    "broccoli-filter": "^1.2.4"
+  },
+  "devDependencies": {
+    "broccoli-test-helpers": "0.0.9",
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
