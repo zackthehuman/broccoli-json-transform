@@ -6,6 +6,10 @@
   "scripts": {
     "test": "mocha test"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zackthehuman/broccoli-json-transform.git"
+  },
   "keywords": [
     "broccoli",
     "json"
